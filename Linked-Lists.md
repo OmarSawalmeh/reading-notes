@@ -49,3 +49,8 @@ If you ever find yourself having to do something that requires a lot of traversa
 [Linked List Part 1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 <br />
 [Linked List Part 2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
+
+---
+- [BACK (Main Page)](./README.md)
+---
+

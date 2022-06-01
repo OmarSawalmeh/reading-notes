@@ -3,7 +3,9 @@
 
 
 ---
-## *Topics:*
+# *Topics:*
+## Latest reading : [Linked List](./Linked-Lists.md)
+
 ---
 
 |Prep|
@@ -20,4 +22,4 @@
 |:-------------:|:---------|:-------------|----:|----:|
 |[Node js & Express](./Express.md)|-|-|-|-|
 |[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|-|-|-|-|
-|-|-|-|-|-|
+|[Linked List](./Linked-Lists.md)|-|-|-|-|
