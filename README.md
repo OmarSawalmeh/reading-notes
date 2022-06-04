@@ -4,7 +4,7 @@
 
 ---
 # *Topics:*
-## Latest reading : [Linked List](./Linked-Lists.md)
+## Latest reading : [Sequelize (Data Modeling)](./Data-Modeling.md)
 
 ---
 
@@ -20,6 +20,6 @@
 
 |Week1|Week2|Week3|Week4|Week5|
 |:-------------:|:---------|:-------------|----:|----:|
-|[Node js & Express](./Express.md)|-|-|-|-|
+|[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|-|-|-|
 |[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|-|-|-|-|
 |[Linked List](./Linked-Lists.md)|-|-|-|-|
