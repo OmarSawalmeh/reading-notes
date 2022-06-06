@@ -4,7 +4,7 @@
 
 ---
 # *Topics:*
-## Latest reading : [Sequelize (Data Modeling)](./Data-Modeling.md)
+## Latest reading : [Sequelize Normalization](./sequelize-normalization.md)
 
 ---
 
@@ -21,5 +21,5 @@
 |Week1|Week2|Week3|Week4|Week5|
 |:-------------:|:---------|:-------------|----:|----:|
 |[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|-|-|-|
-|[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|-|-|-|-|
+|[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|[Sequelize Normalization](./sequelize-normalization.md)|-|-|-|
 |[Linked List](./Linked-Lists.md)|-|-|-|-|
