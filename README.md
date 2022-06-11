@@ -4,7 +4,7 @@
 
 ---
 # *Topics:*
-## Latest reading : [Sequelize Normalization](./sequelize-normalization.md)
+## Latest reading : [Authentication](./Authentication.md)
 
 ---
 
@@ -20,6 +20,6 @@
 
 |Week1|Week2|Week3|Week4|Week5|
 |:-------------:|:---------|:-------------|----:|----:|
-|[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|-|-|-|
+|[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|[Authentication](./Authentication.md)|-|-|
 |[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|[Sequelize Normalization](./sequelize-normalization.md)|-|-|-|
-|[Linked List](./Linked-Lists.md)|-|-|-|-|
+|[Linked List](./Linked-Lists.md)|Mock Interview|-|-|-|
