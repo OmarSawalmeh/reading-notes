@@ -4,7 +4,7 @@
 
 ---
 # *Topics:*
-## Latest reading : [Authentication](./Authentication.md)
+## Latest reading : [Bearer Authorization](./Bearer-Authorization.md)
 
 ---
 
@@ -21,5 +21,5 @@
 |Week1|Week2|Week3|Week4|Week5|
 |:-------------:|:---------|:-------------|----:|----:|
 |[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|[Authentication](./Authentication.md)|-|-|
-|[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|[Sequelize Normalization](./sequelize-normalization.md)|-|-|-|
+|[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|[Sequelize Normalization](./sequelize-normalization.md)|[Bearer Authorization](./Bearer-Authorization.md)|-|-|
 |[Linked List](./Linked-Lists.md)|Mock Interview|-|-|-|
