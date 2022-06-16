@@ -1,5 +1,7 @@
 # **Access Control (ACL) :**
+
 ---
+
 Despite all of the advanced attack scenarios we face in cybersecurity today, it seems like we continue to shoot ourselves in the proverbial feet with the simple things.
 
 Case in point: the 2017 Verizon Data Breach Investigations Report found that 81 percent of hacking-related breaches involved compromised credentials.  Further, a simple failure can have systemic impact, as was documented recently in the Crowdstrike Intrusion Services Casebook 2018.  As part of their research, they documented a case of a large, multi-national apparel company user working on a public network, while in a coffee shop.  The user’s credentials were compromised, resulting in the compromise of the company’s entire infrastructure.
