@@ -4,7 +4,7 @@
 
 ---
 # *Topics:*
-## Latest reading : [Bearer Authorization](./Bearer-Authorization.md)
+## Latest reading : [Access Control (ACL)](./Access-Control%20(ACL).md)
 
 ---
 
@@ -22,4 +22,4 @@
 |:-------------:|:---------|:-------------|----:|----:|
 |[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|[Authentication](./Authentication.md)|-|-|
 |[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|[Sequelize Normalization](./sequelize-normalization.md)|[Bearer Authorization](./Bearer-Authorization.md)|-|-|
-|[Linked List](./Linked-Lists.md)|Mock Interview|-|-|-|
+|[Linked List](./Linked-Lists.md)|Mock Interview|[Access Control (ACL)](./Access-Control%20(ACL).md)|-|-|
