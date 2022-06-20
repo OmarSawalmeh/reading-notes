@@ -4,7 +4,7 @@
 
 ---
 # *Topics:*
-## Latest reading : [Access Control (ACL)](./Access-Control%20(ACL).md)
+## Latest reading : [Stacks and Queues](./Stacks-and-Queues.md)
 
 ---
 
@@ -20,6 +20,6 @@
 
 |Week1|Week2|Week3|Week4|Week5|
 |:-------------:|:---------|:-------------|----:|----:|
-|[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|[Authentication](./Authentication.md)|-|-|
-|[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|[Sequelize Normalization](./sequelize-normalization.md)|[Bearer Authorization](./Bearer-Authorization.md)|-|-|
+|[Node js & Express](./Express.md)|[Sequelize (Data Modeling)](./Data-Modeling.md)|[Authentication](./Authentication.md)|/|-|
+|[Express-Routing-Middlewares](./Express-Routing-Middlewares.md)|[Sequelize Normalization](./sequelize-normalization.md)|[Bearer Authorization](./Bearer-Authorization.md)|[Stacks and Queues](./Stacks-and-Queues.md)|-|
 |[Linked List](./Linked-Lists.md)|Mock Interview|[Access Control (ACL)](./Access-Control%20(ACL).md)|-|-|
