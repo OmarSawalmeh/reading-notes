@@ -43,8 +43,6 @@ More customers, across a diverse set of industries, choose AWS compared to any o
 Every ML project is different, and with AWS, you can customize your infrastructure to fit your performance and budget requirements. From using the ML framework that works best for your team, to selecting the right hardware platform to host your ML models, AWS offers a broad choice of services to meet your needs.
 Businesses have found new ways to leverage ML for recommendation engines, object detection, voice assistants, fraud detection, and more. Although the use of ML is gaining traction, training and deploying ML models is expensive, model development time is long, and procuring the right amount of infrastructure to meet changing business conditions can be challenging. AWS ML infrastructure services remove the barriers to adoption of ML by being high performing, cost-effective, and highly flexible.
 
----
----
 
 ### **Amazon EC2 features**
 
